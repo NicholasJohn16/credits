@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "SWC site 2025",
+    "name": "SWC site 20",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -39,14 +39,13 @@
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "mbrsiteDomain": "qllbdv6kdc",
+    "mbrsiteDomain": "jtdkifkkyr",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
-    "publishChangesOnly": true
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -156,7 +155,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWC STORE 2</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWC STORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -552,7 +551,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SOLD OUT</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">5 SWC</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2&nbsp;SWC</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SOLD OUT</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">6 SWC</a>",
           "_tags": [
             "Theme"
@@ -671,7 +670,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">5 SWC</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SOLD OUT</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">5 SWC</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">3 SWC</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">3 SWC</a>",
@@ -1037,7 +1036,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">5 SWC</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">3 SWC</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SOLD OUT</a>",
           "_tags": [
             "Theme"
           ],
@@ -1161,7 +1160,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">sold out</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">5 SWC</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4&nbsp;SWC</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">5 SWC</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SOLD OUT</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">3 SWC</a>",
           "_tags": [
             "Theme"
@@ -3895,7 +3894,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWC STORE 2</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWC STORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -4776,7 +4775,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWC STORE 2</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWC STORE</a>",
           "_tags": [
             "Theme"
           ],
