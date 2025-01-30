@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SWC site 2025",
-    "currentPage": "index.html",
+    "currentPage": "valentine.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -35,7 +35,7 @@
     "siteFonts": [],
     "favicon": false,
     "noImageResize": "",
-    "uniqCompNum": 137,
+    "uniqCompNum": 138,
     "versionPublish": "5.9.25",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -4748,7 +4748,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/valentines24-1-1024x1024.jpg",
+              "src": "@PROJECT_PATH@/assets/images/val-square-1024x1041.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4767,7 +4767,7 @@
             }
           },
           "title": "SGN VALENTINE",
-          "text": "<b>- THIS VALENTINES FORM CAN ONLY BE USED ON PC -</b><br>Welcome to SGN's Valentine 2024 event.\n<br>This is your chance to show you care for a fellow member of SGN, they can be a STO player, Destiny, NMS, Dead by Daylight, GW2 or Fortnite player.. any member of the Stonewall Gaming Network!&nbsp;<br>If you've noticed them in chat.. or they have been really helpful toward you.. This is your chance to send them a little something to say thank you!\n<br>\n<br>You have the chance to send a member 2 SWC by filling out the form below.\n<br><br>Then on 14th Feb (Valentines day) we will fill your selected member's wallet with 2 SWC.. and send them a note via STO mail or Discord with your included message on it.&nbsp;<br>(you can only select 1 person during this event)<br><br>Only @GXV3 will see your Details.",
+          "text": "<b>- THIS VALENTINES FORM CAN ONLY BE USED ON PC -</b><br>Welcome to SGN's Valentine 2025event.\n<br>This is your chance to show you care for a fellow member of SGN, they can be a STO player, Destiny, NMS, Dead by Daylight, GW2 or Fortnite player.. any member of the Stonewall Gaming Network!&nbsp;<br>If you've noticed them in chat.. or they have been really helpful toward you.. This is your chance to send them a little something to say thank you!\n<br>\n<br>You have the chance to send a member 2 SWC by filling out the form below.\n<br><br>Then on 14th Feb (Valentines day) we will fill your selected member's wallet with 2 SWC.. and send them a note via STO mail or Discord with your included message on it.&nbsp;<br>(you can only select 1 person during this event)<br><br>Only @GXV3 will see your Details.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"

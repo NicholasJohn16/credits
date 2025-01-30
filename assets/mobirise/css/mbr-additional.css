@@ -908,18 +908,6 @@ section.form .container {
 
 
 
-#msg-box5-3b P {
-  color: #ffffff;
-}
-#msg-box5-3b H3 {
-  color: #c1c1c1;
-}
-#form1-3c .form-control-label {
-  color: #232323;
-}
-#form1-3c .mbr-section-subtitle {
-  color: #595757;
-}
 #menu-39 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -990,6 +978,18 @@ section.form .container {
 }
 #menu-39 A {
   font-size: 16px;
+}
+#msg-box5-3b P {
+  color: #ffffff;
+}
+#msg-box5-3b H3 {
+  color: #c1c1c1;
+}
+#form1-3c .form-control-label {
+  color: #232323;
+}
+#form1-3c .mbr-section-subtitle {
+  color: #595757;
 }
 #contacts1-3a P {
   color: #ffffff;
