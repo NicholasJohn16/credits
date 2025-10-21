@@ -29,6 +29,7 @@
 
 
 
+
 .subtitleFont {
   font-family: 'Oswald', sans-serif;
   font-style: normal;
@@ -560,8 +561,19 @@ section.form .container {
 #menu-0 A {
   font-size: 16px;
 }
+#content5-3v .mbr-section-title,
+#content5-3v .lead {
+  color: #fff;
+}
+#content5-3v .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  color: #f7da64;
+}
 #msg-box5-3e H3 {
   color: #979797;
+}
+#msg-box5-3e P {
+  color: #ffffff;
 }
 #content5-b .mbr-section-title,
 #content5-b .lead {

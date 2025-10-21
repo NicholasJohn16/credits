@@ -35,7 +35,7 @@
     "siteFonts": [],
     "favicon": false,
     "noImageResize": "",
-    "uniqCompNum": 138,
+    "uniqCompNum": 141,
     "versionPublish": "5.9.25",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -220,16 +220,57 @@
           "_sourceTheme": "mobirise3"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#f7da64"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/healthydismalapisdorsatalaboriosa-size_restricted.gif",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b8312f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/WBGPlUlPjmk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=WBGPlUlPjmk",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.7"
+          },
+          "title": "PROMOTION SPECIALS",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-3v",
+          "_sourceTheme": "mobirise3"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": "70",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/download-all-white-image-2000x1436.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pxfuel-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -245,10 +286,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/new-line-sgn-21-1400x844.png",
+              "src": "@PROJECT_PATH@/assets/images/hallowtheme-1400x731.png",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -263,7 +305,7 @@
             }
           },
           "title": "SGN's new designs",
-          "text": "We have added some new flair for this year, with our brand new SGN logo available in black or white, to our alt universe Stonewall empire logo.&nbsp;<br>See the new designs below.<br>Now available, Face masks, duffle bags and back packs!<br><br><br>",
+          "text": "Why not spend some of your hard earned Stonewall Credits on our range of cheap spooky Steam game codes that will fit in great for this Halloween season<br><br>(While stocks last)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"merch.html\" data-toolbar=\"-mbrBtnMove\">Go to the merchandise tab</a>",
           "_tags": [
             "Theme"
@@ -272,9 +314,263 @@
           "_styles": {
             "H3": {
               "color": "#979797"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box5-3e",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c0ced6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dbdr-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/metro-redux-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/header-8-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/warhammer-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/the-dark-pictures-anthology-man-of-medan-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/secret-neighbor-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Dead by daylight base game",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Metro redux 2033",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Dead space 2 (origin games)",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Warhammer: Vermintide 2",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Dark pictures: Man of Medan",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Secret neighbor",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-3u",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c0ced6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/neon-abyss-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hesfader-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hgfdsfgeader-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/darksiders-3-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bookofdemons-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/conarium-1-460x215.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Neon abyss",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "The wolf among us",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Deadlight: directors cut",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Darksiders 3",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Book of demons",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Conarium",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">1 SWC</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">1 SWC</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">1&nbsp;SWC</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">1 SWC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-3w",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -290,7 +586,7 @@
           "_params": {
             "showTitle": true,
             "showCaption": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/healthydismalapisdorsatalaboriosa-size_restricted.gif",
@@ -378,7 +674,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/borderlands-3-460x215.jpg",
+              "src": "@PROJECT_PATH@/assets/images/warhammer-460x215.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -421,7 +717,7 @@
           "title3": "Dead space 2 (origin games)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Borderlands III",
+          "title4": "Warhammer: Vermintide 2",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Dark pictures: Man of Medan",
@@ -432,9 +728,9 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">5 SWC</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SOLD OUT</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">5 SWC</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
           "_tags": [
             "Theme"
@@ -479,7 +775,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/of-flesh-and-mud-460x215.jpg",
+              "src": "@PROJECT_PATH@/assets/images/spacemarine-460x215.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -538,7 +834,7 @@
           "title1": "Dead by daylight",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "DBD: Of flesh &amp; Mud DLC",
+          "title2": "Warhammer 40,000: Space Marine - Anniversary Edition",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Stellaris<br>(gog launcher)",
@@ -553,8 +849,8 @@
           "title6": "Project winter",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">8 SWC</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SOLD OUT</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">5 SWC</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2&nbsp;SWC</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
@@ -922,7 +1218,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">1 SWC</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">1 SWC</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">6 SWC</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">3 SWC</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">3&nbsp;SWC</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">4 SWC</a>",
           "_tags": [
@@ -1292,7 +1588,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">1 SWC</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">6 SWC</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">1 SWC</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">1 SWC</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.stonewallgaming.net/store/wallet\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">2 SWC</a>",
           "_tags": [
             "Theme"
