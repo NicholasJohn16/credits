@@ -456,7 +456,7 @@
             "ShowTexts": false,
             "showButtons": true,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
