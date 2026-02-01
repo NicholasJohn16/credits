@@ -993,9 +993,10 @@ section.form .container {
 }
 #msg-box5-3b P {
   color: #ffffff;
+  text-align: left;
 }
 #msg-box5-3b H3 {
-  color: #c1c1c1;
+  color: #e25041;
 }
 #form1-3c .form-control-label {
   color: #232323;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SWC site 2025",
-    "currentPage": "index.html",
+    "currentPage": "valentine.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -5028,7 +5028,7 @@
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/alex-fxrwjgmcz-g-unsplash-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stone-valentine-background-1380x765.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -5037,14 +5037,14 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#00a885",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/val-square-1024x1041.png",
+              "src": "@PROJECT_PATH@/assets/images/stone-valentine-portrait-1180x1380.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -5062,8 +5062,8 @@
               "size": 0
             }
           },
-          "title": "SGN VALENTINE",
-          "text": "<b>- THIS VALENTINES FORM CAN ONLY BE USED ON PC -</b><br>Welcome to SGN's Valentine 2025event.\n<br>This is your chance to show you care for a fellow member of SGN, they can be a STO player, Destiny, NMS, Dead by Daylight, GW2 or Fortnite player.. any member of the Stonewall Gaming Network!&nbsp;<br>If you've noticed them in chat.. or they have been really helpful toward you.. This is your chance to send them a little something to say thank you!\n<br>\n<br>You have the chance to send a member 2 SWC by filling out the form below.\n<br><br>Then on 14th Feb (Valentines day) we will fill your selected member's wallet with 2 SWC.. and send them a note via STO mail or Discord with your included message on it.&nbsp;<br>(you can only select 1 person during this event)<br><br>Only @GXV3 will see your Details.",
+          "title": "SGN VALENTINE - YEAR OF THE HORSE&nbsp;",
+          "text": "<b>- THIS VALENTINES FORM CAN ONLY BE USED ON PC -</b><b><br></b><br>Welcome to SGN's Valentine 2026 event.\n<br>This is your chance to show you care for a fellow member of the Stonewall Gaming Network!&nbsp;<br>If you've noticed them in chat.. or they have been really helpful toward you.. This is your chance to send them a little something to say thank you!\n<br>\n<br>You have the chance to send a member a random Duty Officer Pack PLUS 2 Stonewall credits&nbsp; by filling out the form below.<br>\n(<b>THANKS TO @GAMMADELTA1 FOR THE DOFF PACKS</b>)<br><br>Then on 14th Feb (Valentines day) we will fill your selected member's wallet with 2 SWC.. and send them a note with the DOFF pack attatched via STO mail with your included message on it.&nbsp;<br>(you can only select 1 person during this event)<br><br>To coincide with valentines, it happens to be the start of the Chinese new year, this year is the year of the horse, to be Bold,&nbsp;encouraging and expressive.. go get um!<br><br>Only @GXV3 will see your Details.<br>Thank you again to @gammadelta1 for the Doff pack donations",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -5072,10 +5072,11 @@
           "_anchor": "msg-box5-3b",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             "H3": {
-              "color": "#c1c1c1"
+              "color": "#e25041"
             }
           },
           "_sourceTheme": "mobirise3"
@@ -5097,7 +5098,7 @@
             "overlayOpacity": 0.5
           },
           "title": "WHO WILL BE YOUR SGN VALENTINE?",
-          "subtitle": "Send 2 Stonewall credits to someone. You may only choose one SGN member.<br>- We will require your own username when filling out this form as to avoid duplicate submissions.<br>- If you wish to remain anonymous to your valentine please write \"annon\" in the message box&nbsp;<br><b>- (THIS FORM ONLY WORKS VIA PC) -</b>",
+          "subtitle": "Send 2 Stonewall credits + Doff pack to someone. You may only choose one SGN member.<br>- We will require your own username when filling out this form as to avoid duplicate submissions.<br>- If you wish to remain anonymous to your valentine please write \"annon\" in the message box&nbsp;<br><b>- (THIS FORM ONLY WORKS VIA PC) -</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send!</a>",
           "form": {
             "action": "llandrell@gmail.com",
