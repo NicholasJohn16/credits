@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SWC site 2025",
-    "currentPage": "valentine.html",
+    "currentPage": "merch.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -139,7 +139,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ITEMS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.stonewallgaming.net/store/wallet\">ORDER FROM YOUR SWC WALLET</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"merch.html\">SGN REDBUBBLE MERCHANDISE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"true\">ITEMS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.stonewallgaming.net/store/wallet\">ORDER FROM YOUR SWC WALLET</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"merch.html\">SGN REDBUBBLE MERCHANDISE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4767,13 +4767,14 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rgeg345es-600x750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/work-181838339-premium-oversized-sweatshirt-596x784.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -4820,7 +4821,7 @@
           "title1": "SWTOR: Alliance",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "SWTOR: Coalition",
+          "title2": "Stonewall Pride 2026",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Fleet 10th Anniversary",
@@ -4836,7 +4837,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.redbubble.com/shop/ap/36114168\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">click to see range</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.redbubble.com/shop/ap/36114216\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">click to see range</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.redbubble.com/shop/ap/181838339\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">click to see range</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.redbubble.com/shop/ap/38772714\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">click to see range</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.redbubble.com/shop/ap/39339446\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">click to see range</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://www.redbubble.com/shop/ap/50822915\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">click to see range</a>",
@@ -4994,7 +4995,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ITEMS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.stonewallgaming.net/store/wallet\">ORDER FROM YOUR SWC WALLET</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"merch.html\">SGN REDBUBBLE MERCHANDISE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"true\">ITEMS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.stonewallgaming.net/store/wallet\">ORDER FROM YOUR SWC WALLET</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"merch.html\">SGN REDBUBBLE MERCHANDISE</a></li>",
           "logo": {
             "image": {
               "active": true,
